@@ -16,7 +16,7 @@ This project analyzes over 150,000 Uber ride bookings to identify revenue trends
 *   **Top Revenue Location:** Barakhamba Road
 
 ## 🖼️ Dashboard Preview
-![Uber Dashboard](Images/dashboard_screenshot.png)
+![Uber Dashboard](UBER DASH 01.png)
 
 ## 📂 Repository Structure
 *   `Data/` - Contains the raw dataset.
