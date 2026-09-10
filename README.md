@@ -4,9 +4,8 @@
 This project analyzes over 150,000 Uber ride bookings to identify revenue trends, cancellation patterns, and vehicle performance. The goal is to provide actionable insights to improve operational efficiency and driver allocation.
 
 ## 🛠️ Tools & Technologies
-*   **Database:** Microsoft SQL Server (T-SQL)
 *   **Data Visualization:** Power BI, DAX
-*   **Data Cleaning:** SQL, Power Query
+*   **Data Cleaning:** Power Query
 *   **Other:** Git, GitHub
 
 ## 📊 Key Insights
@@ -21,14 +20,12 @@ This project analyzes over 150,000 Uber ride bookings to identify revenue trends
 
 ## 📂 Repository Structure
 *   `Data/` - Contains the raw dataset.
-*   `SQL/` - Contains the SQL scripts used for data cleaning, transformation, and analysis.
 *   `PowerBI/` - Contains the `.pbix` dashboard file.
 *   `Images/` - Contains screenshots of the final dashboard.
 
 ## 🚀 How to Use
-1. Run the SQL scripts to clean and prepare the data.
-2. Open the `.pbix` file in Power BI Desktop to view the interactive dashboard.
-3. Use the slicers to filter by Pickup Location, Vehicle Type, and Booking Status.
+1. Open the `.pbix` file in Power BI Desktop to view the interactive dashboard.
+2. Use the slicers to filter by Pickup Location, Vehicle Type, and Booking Status.
 
 ## 👤 Author
 **Junaid Narkar**
