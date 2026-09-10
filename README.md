@@ -19,9 +19,9 @@ This project analyzes over 150,000 Uber ride bookings to identify revenue trends
 ![Uber Dashboard](UBER%20DASH%2001.png)
 
 ## 📂 Repository Structure
-*   `Data/` - Contains the raw dataset.
-*   `PowerBI/` - Contains the `.pbix` dashboard file.
-*   `Images/` - Contains screenshots of the final dashboard.
+*   `Uber_Analyatic_Dashboard.pbix` - The main Power BI dashboard file.
+*   `ncr_ride_bookings.csv` - The raw dataset.
+*   `UBER DASH 01.png` - Screenshot of the final dashboard.
 
 ## 🚀 How to Use
 1. Open the `.pbix` file in Power BI Desktop to view the interactive dashboard.
